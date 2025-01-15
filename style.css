@@ -18,6 +18,7 @@
   font-family: "Kanit", serif;
   font-weight: 400;
   font-style: normal;
+  overflow: hidden;
 }
 
 body {
